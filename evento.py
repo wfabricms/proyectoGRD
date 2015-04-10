@@ -12,8 +12,8 @@ class Evento(object):
 		self.submissionDeadline = ""
 		self.notificationDue = ""
 		self.finalVersionDue = ""
-		self.categorias = []
-		self.texto = ""
+		self.categories = []
+		self.description = ""
 
 	"""
 	@property
